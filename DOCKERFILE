@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 8000
 
 # Default command (update based on your app — Flask/FastAPI/Django/etc.)
-CMD ["python", "main.py"]
+CMD ["python", "hello.py"]
